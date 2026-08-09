@@ -1,0 +1,17 @@
+# Generated: the mirrored site is rebuilt from the origin by tools/build-all.mjs.
+# It is ~222 MB of third-party media and must never be committed.
+/site/
+
+# Lossless hero renditions staged for R2 upload (~189 MB).
+/r2-high/
+
+node_modules/
+.tmp-video/
+.tmp-high/
+.chunk-hashes.json
+*.log
+.playwright-mcp/
+.DS_Store
+
+# Local miniflare/wrangler state from `wrangler pages dev`.
+.wrangler/

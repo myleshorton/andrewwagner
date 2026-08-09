@@ -1,0 +1,11 @@
+name = "awa-optimized"
+pages_build_output_dir = "site"
+compatibility_date = "2026-07-01"
+
+# The full-quality hero renditions live in R2 rather than in the Pages asset
+# bundle: Pages rejects anything over 25 MiB and three of these clips are
+# 28-51 MB. The middleware proxies them so they keep the same /media/v/ URLs,
+# stay behind the CDN, and inherit the immutable cache headers.
+[[r2_buckets]]
+binding = "MEDIA"
+bucket_name = "awa-media"

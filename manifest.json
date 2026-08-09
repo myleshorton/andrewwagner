@@ -1,0 +1,517 @@
+{
+  "pages": [
+    "/",
+    "/studio",
+    "/work/commercial",
+    "/work/residential"
+  ],
+  "nextAssets": [
+    "/_next/static/chunks/0e4889d356df2fcb.js",
+    "/_next/static/chunks/2607f4470a6290ba.js",
+    "/_next/static/chunks/285ca1c31127ddc6.js",
+    "/_next/static/chunks/4fc476e6d4a0ce92.js",
+    "/_next/static/chunks/7dd66bdf8a7e5707.js",
+    "/_next/static/chunks/8082ab48faca5ea1.js",
+    "/_next/static/chunks/922e03ee120b2781.js",
+    "/_next/static/chunks/9ead24afd6e05725.js",
+    "/_next/static/chunks/a6dad97d9634a72d.js",
+    "/_next/static/chunks/c63ca0afb9bcb0d6.js",
+    "/_next/static/chunks/c698f6b3afd0b2eb.js",
+    "/_next/static/chunks/e06aa4c6dfadf26a.js",
+    "/_next/static/chunks/f01e637bce489517.js",
+    "/_next/static/chunks/f6cbdc9f1d8f5e1d.css",
+    "/_next/static/chunks/ff1a16fafef87110.js",
+    "/_next/static/chunks/turbopack-9e608bb6c4b8cb92.js",
+    "/_next/static/media/",
+    "/_next/static/media/043b82ab31bba5a4-s.p.b67c2e04.woff2",
+    "/_next/static/media/47fe1b7cd6e6ed85-s.p.855a563b.woff2",
+    "/_next/static/media/4b766aa38fdaaae3-s.p.6d98c708.woff2",
+    "/_next/static/media/829ba4228c966254-s.p.a61bc753.woff2",
+    "/_next/static/media/8e6fa89aa22d24ec-s.p.3aec397d.woff2",
+    "/_next/static/media/a218039a3287bcfd-s.p.4a23d71b.woff2",
+    "/_next/static/media/c7d9ca68f9942779-s.p.5f8f1848.woff2",
+    "/_next/static/media/c875c6f5d3e977ac-s.p.80fc2c9e.woff2",
+    "/_next/static/media/e2334d715941921e-s.p.d82a9aff.woff2",
+    "/_next/static/media/e8f2fbee2754df70-s.p.9b7a96b4.woff2",
+    "/_next/static/media/fba5a26ea33df6a3-s.p.1bbdebe6.woff2"
+  ],
+  "media": [
+    {
+      "path": "/Residential Page/Videos/2_Andrew Wagner Architects - Spanish Oaks Golf Club - Luxury Modern Texas Hill Country Residence - Water Feature - Infinity Pool.mp4",
+      "bytes": 53427454
+    },
+    {
+      "path": "/Commercial Page/Videos/1_Andrew Wagner Architects - Horseshoe Bay Resort - Live Oak Pavilion - Texas Hill Country Luxury Resort Architect.mp4",
+      "bytes": 36559605
+    },
+    {
+      "path": "/Residential Page/Videos/1_Andrew Wagner Architects - Spanish Oaks Club.mp4",
+      "bytes": 29708268
+    },
+    {
+      "path": "/Landing Page/Videos/2_Andrew Wagner Architects - Spanish Oaks Golf Club - Texas Hill Country Contemporary - Life Style By Design.mp4",
+      "bytes": 25503032
+    },
+    {
+      "path": "/Landing Page/Videos/3_Andrew Wagner Architects - Driftwood Golf and Ranch Club - Texas Hill Country Modern - ATX.mp4",
+      "bytes": 23137412
+    },
+    {
+      "path": "/Landing Page/Videos/1_Andrew Wagner Architects - Driftwood Golf and Ranch Club - Cabin.mp4",
+      "bytes": 18527643
+    },
+    {
+      "path": "/Studio Page/Horseshoe Bay.jpg",
+      "bytes": 11337956
+    },
+    {
+      "path": "/Commercial Page/Videos/2_Andrew Wagner Architects - Driftwood Golf and Ranch Club - Cliff Bar Onion Creek - Amenities Features.mp4",
+      "bytes": 8825878
+    },
+    {
+      "path": "/image360_high_quality.jpeg",
+      "bytes": 7603002
+    },
+    {
+      "path": "/Residential Page/Videos/3_Andrew Wagner Architects - Travis Club Austin - Glass Foyer.mp4",
+      "bytes": 2525183
+    },
+    {
+      "path": "/Landing Page/Images - Get in Touch/9_Tour Texas Hill Country - Aerial.jpg",
+      "bytes": 1943798
+    },
+    {
+      "path": "/Commercial Page/Images - Texas Hill Country/5_Andrew Wagner Architects - Horseshoe Bay Resort - Live Oak Pavilion - Wedding Ceremony - Rain Garden.jpg",
+      "bytes": 1726525
+    },
+    {
+      "path": "/Residential Page/Images - Driftwood Golf and Ranch Club/1_Discovery Driftwood - Creek and Vine - Modern Austin Home - Andrew Wagner Architects.jpg",
+      "bytes": 1624581
+    },
+    {
+      "path": "/Landing Page/Images - Get in Touch/6_Golf Texas Hill Country - Aerial.jpg",
+      "bytes": 1585874
+    },
+    {
+      "path": "/Commercial Page/Images - Texas Hill Country/10_Texas Hill Country Dining and Bar 2 - Andrew Wagner Architects.jpg",
+      "bytes": 1513185
+    },
+    {
+      "path": "/Residential Page/Images - Greater Austin and Beyond/8_Hawkridge Austin - Texas Modern Architect - Andrew Wagner Architects.jpg",
+      "bytes": 1481776
+    },
+    {
+      "path": "/Commercial Page/Images - Texas Hill Country/6_Texas Hill Country Resort - ATX Swimming Pool - Andrew Wagner Architects.jpg",
+      "bytes": 1470941
+    },
+    {
+      "path": "/Landing Page/Images - Get in Touch/1_Austin ATX Skyline.jpg",
+      "bytes": 1468572
+    },
+    {
+      "path": "/Commercial Page/Images - Around Austin/3_East Austin - Private Social Club and Restaurant - Andrew Wagner Archtiects.jpg",
+      "bytes": 1426663
+    },
+    {
+      "path": "/Residential Page/Images - Driftwood Golf and Ranch Club/8_Andrew Wagner Architects - Creek and Vine - Driftwood Golf and Ranch Club - Rear Drone Shot.jpg",
+      "bytes": 1424056
+    },
+    {
+      "path": "/Landing Page/Images - Get in Touch/3_Central Texas Waterways - Andrew Wagner Architects.jpg",
+      "bytes": 1392902
+    },
+    {
+      "path": "/Commercial Page/Images - Around Austin/4_East Austin - Spa and Wellness Center - Andrew Wagner Architects.jpg",
+      "bytes": 1375352
+    },
+    {
+      "path": "/Commercial Page/Images - Driftwood Golf and Ranch Club/8_Driftwood Golf and Ranch Club - Andrew Wagner Architects.jpg",
+      "bytes": 1367785
+    },
+    {
+      "path": "/Residential Page/Images - Spanish Oaks/9_Hillside at Spanish Oaks - Golf Course Home - Hill Country Luxury Residence - Andrew Wagner Architects.jpg",
+      "bytes": 1357001
+    },
+    {
+      "path": "/Commercial Page/Images - Texas Hill Country/1_Andrew Wagner Architects - Horseshoe Bay Resort - Green.jpg",
+      "bytes": 1353634
+    },
+    {
+      "path": "/Landing Page/Images - Get in Touch/5_Cooke City Montana - Yellowstone National Park - Bozeman MT - Andrew Wagner Architects.jpg",
+      "bytes": 1323343
+    },
+    {
+      "path": "/Commercial Page/Images - Driftwood Golf and Ranch Club/5_Discovery Land Company - Driftwood Golf and Ranch Club - Golf Hitting Bays - Andrew Wagner Architects  - DLC - Does It Best.jpg",
+      "bytes": 1279202
+    },
+    {
+      "path": "/Commercial Page/Images - Texas Hill Country/8_Horseshoe Bay Resort  - Live Oak Pavilion - Wedding Ceremony - Texas Hill Country - Andrew Wagner Architects.jpg",
+      "bytes": 1233375
+    },
+    {
+      "path": "/Residential Page/Images - Greater Austin and Beyond/1_Hawkridge Austin Texas Hill Country - Andrew Wagner Architects.jpg",
+      "bytes": 1233299
+    },
+    {
+      "path": "/Residential Page/Images - Travis Club Austin/2_Travis Club Austin - Andrew Wagner Architects - Lake Travis Luxury Residence - Infinity Pool - Outdoor Kitchen.jpg",
+      "bytes": 1215043
+    },
+    {
+      "path": "/Residential Page/Images - Travis Club Austin/3_Travis Club Austin - Modern Architect - Texas Hill Country - Kitchen - Lake Home - Andrew Wagner Architects.jpg",
+      "bytes": 1192942
+    },
+    {
+      "path": "/Residential Page/Images - Travis Club Austin/6_Andrew Wagner Architects.jpg",
+      "bytes": 1186021
+    },
+    {
+      "path": "/Residential Page/Images - Greater Austin and Beyond/7_Hawkridge Austin - Luxury Outdoor Living - Andrew Wagner Architects.jpg",
+      "bytes": 1088122
+    },
+    {
+      "path": "/Commercial Page/Images - Around Austin/2_East Austin - Private Activity Barn - Andrew Wagner Architects.jpg",
+      "bytes": 1066197
+    },
+    {
+      "path": "/Landing Page/Images - Get in Touch/2_Beartooth Mountains - Red Lodge Montana - Andrew Wagner Architects.jpg",
+      "bytes": 1058896
+    },
+    {
+      "path": "/Commercial Page/Images - Driftwood Golf and Ranch Club/6_Discovery Land Company - Driftwood Villa - Andrew Wagner Architects.jpg",
+      "bytes": 1057907
+    },
+    {
+      "path": "/Residential Page/Images - Spanish Oaks/11_Spanish Oaks - Andrew Wagner Architects.jpg",
+      "bytes": 1050131
+    },
+    {
+      "path": "/Residential Page/Images - Spanish Oaks/2_Andrew Wagner Architects - Spanish Oaks Golf Club - Front Entry Sunset.jpg",
+      "bytes": 1046833
+    },
+    {
+      "path": "/Residential Page/Images - Driftwood Golf and Ranch Club/10_Discovery Driftwood - Austin Texas - Modern Luxury Residence - Entry Water Feature.jpg",
+      "bytes": 1038872
+    },
+    {
+      "path": "/Landing Page/Images - Get in Touch/7_Spicewood - Lake Travis - Pedernales Rive - Boating - Andrew Wagner Architects.jpg",
+      "bytes": 1008896
+    },
+    {
+      "path": "/Commercial Page/Images - Texas Hill Country/9_Texas Hill Country Dining and Bar 1 - Andrew Wagner Architects.jpg",
+      "bytes": 996103
+    },
+    {
+      "path": "/Residential Page/Images - Travis Club Austin/5_Travis Club Austin - Andrew Wagner Architects - Golf Course Luxury Residence.jpg",
+      "bytes": 993435
+    },
+    {
+      "path": "/Commercial Page/Images - Texas Hill Country/3_Andrew Wagner Architects - Horseshoe Bay Resort - Live Oak Pavilion - Wedding Ceremony - Banquet Area.jpg",
+      "bytes": 989259
+    },
+    {
+      "path": "/Studio Page/Approach - Cabo San Lucas Image.jpg",
+      "bytes": 971012
+    },
+    {
+      "path": "/Residential Page/Images - Spanish Oaks/10_Spanish Oaks Golf Club - Andrew Wagner Architects - Peninsula Two Sided Fireplace.jpg",
+      "bytes": 963460
+    },
+    {
+      "path": "/Residential Page/Images - Greater Austin and Beyond/2_Eanes ISD Austin Texas - Luxury Residence - Reclaimed Timber Entry.jpg",
+      "bytes": 949039
+    },
+    {
+      "path": "/Commercial Page/Images - Texas Hill Country/7_Horseshoe Bay Resort - Golf Academy - Cap Rock Golf Club - Andrew Wagner Architects.jpg",
+      "bytes": 937777
+    },
+    {
+      "path": "/Commercial Page/Images - Driftwood Golf and Ranch Club/3_Discovery Land Company - Driftwood Golf and Ranch Club - Golf Comfort Station 1 - Andrew Wagner Architects.jpg",
+      "bytes": 928902
+    },
+    {
+      "path": "/Residential Page/Images - Spanish Oaks/8_Spanish Oaks Golf Club - Andrew Wagner Architects - Crows Nest.jpg",
+      "bytes": 910680
+    },
+    {
+      "path": "/Residential Page/Images - Driftwood Golf and Ranch Club/2_Creek and Vine - Driftwood Golf and Ranch Club - Exterior Entry Courtyard - Andrew Wagner Architects.jpg",
+      "bytes": 879873
+    },
+    {
+      "path": "/Residential Page/Images - Travis Club Austin/4_Travis Club Austin - Andrew Wagner Architects - Luxury Lake - Travis Residence.jpg",
+      "bytes": 868958
+    },
+    {
+      "path": "/Residential Page/Images - Spanish Oaks/6_Andrew Wagner Architects - Spanish Oaks Golf Club - Luxury Golf Fairway Residence - Ferrari.jpg",
+      "bytes": 796949
+    },
+    {
+      "path": "/Residential Page/Images - Greater Austin and Beyond/6_Barton Creek Luxury Residence - Andrew Wagner Architects - Courtyard Entry.jpg",
+      "bytes": 794601
+    },
+    {
+      "path": "/Landing Page/Images - Get in Touch/4_Cooke City Montana - Yellowstone National Park - Andrew Wagner Architects.jpg",
+      "bytes": 772684
+    },
+    {
+      "path": "/Residential Page/Images - Driftwood Golf and Ranch Club/5_Creek and Vine - Driftwood Golf and Ranch Club - Front Perspective - Andrew Wagner Architects.jpg",
+      "bytes": 736296
+    },
+    {
+      "path": "/Commercial Page/Images - Texas Hill Country/2_Andrew Wagner Architects - Horseshoe Bay Resort - Golf Academy - Apple Rock - Hitting Bays.jpg",
+      "bytes": 730881
+    },
+    {
+      "path": "/Residential Page/Images - Spanish Oaks/1_Andrew Wagner Architects - Floating Stair - Modern Austin Architect.jpg",
+      "bytes": 728019
+    },
+    {
+      "path": "/Residential Page/Images - Driftwood Golf and Ranch Club/11_Driftwood Golf and Ranch Club - Texas Hill Country Modern Residence - Andrew Wagner Architects - Covered Outdoor Living - Infinity Pool.jpg",
+      "bytes": 722907
+    },
+    {
+      "path": "/Residential Page/Images - Greater Austin and Beyond/4_Hillside At Spanish Oaks - Andrew Wagner Architects - Luxury Residence Sunset.jpg",
+      "bytes": 692006
+    },
+    {
+      "path": "/Commercial Page/Images - Around Austin/6_Private Luxury Social Club - Austin Skyline - Andrew Wagner Archtiects.jpg",
+      "bytes": 690946
+    },
+    {
+      "path": "/Residential Page/Images - Driftwood Golf and Ranch Club/9_Andrew Wagner Architects - MJSL Design - 3R Interiors - Driftwood Golf and Ranch Club.jpg",
+      "bytes": 681852
+    },
+    {
+      "path": "/Residential Page/Images - Travis Club Austin/7_Travis Club Austin - Andrew Wagner Architects - Golf Architect - Floating Stairway.jpg",
+      "bytes": 681021
+    },
+    {
+      "path": "/Studio Page/June.jpg",
+      "bytes": 658773
+    },
+    {
+      "path": "/Residential Page/Images - Driftwood Golf and Ranch Club/7_Andrew Wagner Architects - Creek and Vine - Driftwood Golf and Ranch Club - Infinity Pool.jpg",
+      "bytes": 653844
+    },
+    {
+      "path": "/Landing Page/Images - Get in Touch/8_Texas Hill Country - Fog Sunrise.jpg",
+      "bytes": 629326
+    },
+    {
+      "path": "/Residential Page/Images - Spanish Oaks/12_Spanish Oaks Golf Club - Hill Country and Golf Views - Sunset - Fireplace - Lifestyle By Design.jpg",
+      "bytes": 629191
+    },
+    {
+      "path": "/Residential Page/Images - Driftwood Golf and Ranch Club/4_Creek and Vine - Detached Casita Kitchen - Andrew Wagner Architects - DLC.jpg",
+      "bytes": 621964
+    },
+    {
+      "path": "/Residential Page/Images - Greater Austin and Beyond/3_Texas Hill Country Living - Andrew Wagner Architects - Wood Burning Fireplace Hearth.jpg",
+      "bytes": 603281
+    },
+    {
+      "path": "/Commercial Page/Images - Driftwood Golf and Ranch Club/7_Discovery Land Company - Driftwood Villa - Andrew Wagner Architects - Infinity Pool.jpg",
+      "bytes": 586127
+    },
+    {
+      "path": "/Studio Page/Parisa and Andrew.jpg",
+      "bytes": 584181
+    },
+    {
+      "path": "/Residential Page/Images - Greater Austin and Beyond/9_Montage Maravilla - Los Cabos - Luxury Beach Residence - Andrew Wagner Architects.jpg",
+      "bytes": 574279
+    },
+    {
+      "path": "/Commercial Page/Images - Texas Hill Country/4_Andrew Wagner Architects - Horseshoe Bay Resort - Live Oak Pavilion - Wedding Ceremony - Outdoor Firepit.jpg",
+      "bytes": 538565
+    },
+    {
+      "path": "/Commercial Page/Images - Driftwood Golf and Ranch Club/4_Discovery Land Company - Driftwood Golf and Ranch Club - Golf Comfort Station 2 - Andrew Wagner Architects.jpg",
+      "bytes": 532916
+    },
+    {
+      "path": "/Residential Page/Images - Spanish Oaks/3_Andrew Wagner Architects - Spanish Oaks Golf Club - Infinity Pool Outdoor Living - Contemporary Texas Hill Country.jpg",
+      "bytes": 515414
+    },
+    {
+      "path": "/Residential Page/Images - Spanish Oaks/5_Texas Hill Country Kitchen - Andrew Wagner Architects - Best Austin Architect - Luxury Austin Kitchen Pantry.jpg",
+      "bytes": 507648
+    },
+    {
+      "path": "/Residential Page/Images - Driftwood Golf and Ranch Club/6_Creek and Vine - Master Bedroom - Driftwood Golf and Ranch Club - Andrew Wagner Architects.jpg",
+      "bytes": 506852
+    },
+    {
+      "path": "/Residential Page/Images - Greater Austin and Beyond/5_Cabo San Lucas - Mexico - Luxury Infinity Pool - Beach Bay - Andrew Wagner Architects.jpg",
+      "bytes": 504955
+    },
+    {
+      "path": "/Commercial Page/Images - Driftwood Golf and Ranch Club/9_Discovery Land Company - Driftwood Golf and Ranch Club - Creek Club Core Pavilion 2 - Andrew Wagner Architects.jpg",
+      "bytes": 495555
+    },
+    {
+      "path": "/Commercial Page/Images - Around Austin/5_East Austin - Colorado River Cabin Retreat - Andrew Wagner Architects.jpg",
+      "bytes": 476080
+    },
+    {
+      "path": "/Commercial Page/Images - Around Austin/7_Texas Hill Country - Luxury Vacation Homes - Par 3 Village - Andrew Wagner Architects.jpg",
+      "bytes": 473174
+    },
+    {
+      "path": "/Studio Page/Process - La Cresta Image.jpg",
+      "bytes": 473174
+    },
+    {
+      "path": "/Commercial Page/Images - Driftwood Golf and Ranch Club/1_Discovery Land Company - Driftwood Golf and Ranch Club - Comfort Station - DLC - Does It Best.jpg",
+      "bytes": 450149
+    },
+    {
+      "path": "/Commercial Page/Images - Around Austin/1_Andrew Wagner Architects - Golf Comfort Station - Par 3 Golf.jpg",
+      "bytes": 413205
+    },
+    {
+      "path": "/Residential Page/Images - Spanish Oaks/7_Hillside at Spanish Oaks - Andrew Wagner Architects - Luxury Powder Bathroom - Landscape.jpg",
+      "bytes": 397860
+    },
+    {
+      "path": "/Studio Page/Expertise - Andrew and Client Image.jpg",
+      "bytes": 384700
+    },
+    {
+      "path": "/Residential Page/Images - Travis Club Austin/1_Travis Club Austin - Andrew Wagner Architects - Place At The Lake.jpg",
+      "bytes": 368020
+    },
+    {
+      "path": "/Studio Page/About Us - Abstract Image.jpg",
+      "bytes": 363170
+    },
+    {
+      "path": "/Studio Page/Austin Texas - Luxury Infinity Swimming Pool - Lifestyle By Design - Andrew Wagner Architects.jpg",
+      "bytes": 349961
+    },
+    {
+      "path": "/Commercial Page/Images - Driftwood Golf and Ranch Club/2_Discovery Land Company - Driftwood Golf and Ranch Club - Creek Club Core Pavilion 1 - Andrew Wagner Architects.jpg",
+      "bytes": 343409
+    },
+    {
+      "path": "/Residential Page/Images - Spanish Oaks/4_Texas Hill Country Kitchen - Andrew Wagner Architects - Best Austin Architect - Luxury Austin Kitchen.jpg",
+      "bytes": 318910
+    },
+    {
+      "path": "/Landing Page/Images - Commercial/8_Horseshoe Bay Resort - Live Oak Pavilion - Luxury Hospitality Architect - Andrew Wagner Architects.jpg",
+      "bytes": 316766
+    },
+    {
+      "path": "/Studio Page/Andrew Wagner.jpg",
+      "bytes": 282734
+    },
+    {
+      "path": "/Studio Page/Ariel Fisk-Vittori.jpg",
+      "bytes": 273673
+    },
+    {
+      "path": "/Landing Page/Images - Residential/9_Andrew Wagner Architects - Creek and Vine - Driftwood Golf and Ranch Club - Rear Drone Shot.jpg",
+      "bytes": 251690
+    },
+    {
+      "path": "/Landing Page/Images - Commercial/1_Andrew Wagner Architects - Driftwood Golf and Ranch Club - Cabin Residence.jpg",
+      "bytes": 241868
+    },
+    {
+      "path": "/Landing Page/Images - Residential/3_Discovery Driftwood - Creek and Vine - Modern Austin Home - Andrew Wagner Architects.jpg",
+      "bytes": 238826
+    },
+    {
+      "path": "/Landing Page/Images - Residential/5_Hawkridge Austin - Luxury Outdoor Living - Andrew Wagner Architects.jpg",
+      "bytes": 234404
+    },
+    {
+      "path": "/Landing Page/Images - Commercial/2_Andrew Wagner Architects - Driftwood Golf and Ranch Club - Hill Country Horizon.jpg",
+      "bytes": 233390
+    },
+    {
+      "path": "/Landing Page/Images - Residential/1_Spanish Oaks Golf Club - Modern Luxury Residence - Andrew Wagner Architects.jpg",
+      "bytes": 228573
+    },
+    {
+      "path": "/Residential Page/Images - Driftwood Golf and Ranch Club/3_Creek and Vine - Driftwood Golf and Ranch Club - Luxury Austin Home - Andrew Wagner Architects.jpg",
+      "bytes": 226519
+    },
+    {
+      "path": "/Landing Page/Images - Commercial/7_Horseshoe Bay Resort - Live Oak Pavilion - Andrew Wagner Architects.jpg",
+      "bytes": 225898
+    },
+    {
+      "path": "/Landing Page/Images - Commercial/6_Horseshoe Bay Resort Golf Academy - Cap Rock - Apple Rock - Ram Rock - Texas Hill Country Architect - Andrew Wagner Architects.jpg",
+      "bytes": 204540
+    },
+    {
+      "path": "/Landing Page/Images - Residential/8_Austin Texas - Luxury Residence Courtyard - Andrew Wagner Architects.jpg",
+      "bytes": 197951
+    },
+    {
+      "path": "/Landing Page/Images - Residential/6_Loraloma Private Club and Estates - Andrew Wagner Architects - Infinity Pool.jpg",
+      "bytes": 197736
+    },
+    {
+      "path": "/Studio Page/Parisa Amirabadi-Wagner.jpg",
+      "bytes": 194901
+    },
+    {
+      "path": "/Landing Page/Images - Residential/4_Andrew Wagner Architects - Hawk Ridge Austin - Modern Hill Country - Front Perspective.jpg",
+      "bytes": 174303
+    },
+    {
+      "path": "/Landing Page/Images - Residential/11_Andrew Wagner Architects - Spanish Oaks Golf Club - Austin Texas - Covered Entry - Reflection Pool.jpg",
+      "bytes": 161209
+    },
+    {
+      "path": "/Landing Page/Images - Residential/10_Andrew Wagner Architects - Spanish Oaks Golf Club - Austin Texas - Covered Entry - Floating Stair.jpg",
+      "bytes": 156076
+    },
+    {
+      "path": "/Landing Page/Images - Residential/7_Travis Club - Austin Texas - Andrew Wagner Architects.jpg",
+      "bytes": 155157
+    },
+    {
+      "path": "/Landing Page/Images - Commercial/5_East Austin Private Social Club and Restaurant - Andrew Wagner Architects - BW.jpg",
+      "bytes": 144679
+    },
+    {
+      "path": "/Landing Page/Images - Residential/2_Andrew Wagner Architects.jpg",
+      "bytes": 141639
+    },
+    {
+      "path": "/Landing Page/Images - Residential/12_Andrew Wagner Architects - Spanish Oaks Golf Club - Austin Texas - Indoor Outdoor Living - Dining Room.jpg",
+      "bytes": 140162
+    },
+    {
+      "path": "/Landing Page/Images - Commercial/9_Luxury Outdoor Living - Traditional Texas Hill Country Design - Andrew Wagner Architects - BW.jpg",
+      "bytes": 139505
+    },
+    {
+      "path": "/Landing Page/Images - Commercial/3_Discovery Land Company - Driftwood Golf and Ranch Club - Creek Club Core - Andrew Wagner Architects - Onion Creek Birds Eye.jpg",
+      "bytes": 138868
+    },
+    {
+      "path": "/Landing Page/Images - Commercial/4_Discovery Land Company - Driftwood Golf and Ranch Club - Creek Club Core - Andrew Wagner Architects - Onion Creek Pavilion.jpg",
+      "bytes": 138060
+    },
+    {
+      "path": "/Landing Page/Images - Commercial/10_Mountain Modern - Outdoor Living - Andrew Wagner Architects - REV.jpg",
+      "bytes": 122630
+    },
+    {
+      "path": "/favicon.jpg",
+      "bytes": 14863
+    },
+    {
+      "path": "/sitemap.xml",
+      "bytes": 403
+    },
+    {
+      "path": "/robots.txt",
+      "bytes": 100
+    }
+  ],
+  "totalMediaBytes": 294295623
+}

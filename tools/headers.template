@@ -1,0 +1,21 @@
+# Every /media/ and /_next/static/ URL carries a content hash, so they can be
+# cached forever. Vary covers the format/width negotiation done in the middleware.
+/media/*
+  Cache-Control: public, max-age=31536000, immutable
+  Vary: Accept, Sec-CH-Viewport-Width, Sec-CH-DPR, Save-Data
+
+# NOT immutable: these are patched copies of Turbopack output, and renaming them
+# to restore content-addressing breaks the runtime chunk registry. ETag
+# revalidation keeps them correct; they are ~1.9 MB against 44-77 MB of media.
+/_next/static/*
+  Cache-Control: public, max-age=0, must-revalidate
+
+# HTML stays revalidated so content edits are picked up immediately.
+# Accept-CH opts Chromium into sending viewport hints, which lets the middleware
+# hand narrow screens the 1280px rendition instead of the 2048px one.
+/*
+  Accept-CH: Sec-CH-Viewport-Width, Sec-CH-DPR
+  Critical-CH: Sec-CH-Viewport-Width
+  X-Robots-Tag: noindex, nofollow
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
