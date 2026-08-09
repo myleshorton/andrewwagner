@@ -17,6 +17,40 @@ This repo contains **only the build tooling**. The mirrored site and its media
 are regenerated from the origin and are gitignored — no third-party imagery or
 video is stored here.
 
+## ⚠️ Status: the origin has moved on (2026-07-29)
+
+The deployed mirror is a **snapshot of the origin as it was on 2026-07-28**. The
+origin has since been rebuilt, so **`build-all.mjs` will now stop at the guard**
+with `module 50431 not found in any chunk`. That is the guard working correctly,
+not a bug — nothing is deployed when it fires, and the live mirror is unaffected.
+
+The origin has independently adopted several of the same fixes:
+
+- viewport gating via `useInView`, and `preload="none"` until in view
+- `<link rel="preload" as="video">` for the next clip in the rotation
+- a `useMediaQuery` hook selecting real `Videos - Mobile/` source files
+  (their Live Oak mobile rendition is 5.8 MB — essentially identical to this
+  build's 720p tier)
+
+What it still lacks, and what this mirror therefore still demonstrates:
+
+- **no `poster`** — the hero is `opacity-0` until `readyState >= 2`, so it is
+  still a black rectangle while the video buffers
+- no inlined LQIP behind the poster
+- `muted` as a JSX prop only, never as an attribute on the node
+- no AVIF/WebP negotiation for images
+- no `immutable` caching or content-hashed filenames
+- no lossless tier
+
+To resume mirroring, the tooling needs updating for the new bundle: the player
+module is now **`38958`** (it still registers its export as `50431`), it gained
+`enabled` / `priority` / `preload` props, and it exports `useMediaQuery`
+alongside the default. A replacement **must** honor `enabled` — otherwise the
+desktop and mobile instances both mount and both fetch video — and **must**
+re-export `useMediaQuery`, or every importer breaks. `tools/build.mjs` should
+also locate the module by content signature rather than the hardcoded
+`50431,e=>{` literal, which is what made this a hard failure.
+
 ## Where the files actually live
 
 Media is split across two backends, but both are served from the **same
