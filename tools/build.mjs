@@ -73,6 +73,13 @@ for (const v of videoManifest) {
 }
 console.log(`AV1 renditions: ${av1Kept} kept (smaller), ${av1Dropped} dropped (not smaller)`);
 
+// The poster AVIF was renamed above to share its JPEG's stem; persist that so
+// the committed manifest matches what is actually on disk and served.
+await writeFile(
+  path.join(ROOT, "video-manifest.json"),
+  JSON.stringify(videoManifest, null, 2),
+);
+
 // Any AV1 file we are not serving is dead weight in the deploy.
 const referenced = new Set(
   Object.values(playerMap).flatMap((m) => [m.poster, m.desktop, m.mobile, m.high, m.desktopAv1, m.mobileAv1].filter(Boolean)),
